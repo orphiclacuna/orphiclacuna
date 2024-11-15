@@ -1,5 +1,9 @@
 <h1> Hi there 👋 </h1>
 
+<div align="center">
+  <img src="https://tenor.com/en-GB/view/coffee-peep-illustrator-designer-type-designer-coffee-lover-gif-21504839" width="600" height="300"/>
+</div>
+
 Myself Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
 
 I'm obsessed with designing, colors and perfecting the details... yes you guessed that right, I'm passionate about Graphics Designing ✨
