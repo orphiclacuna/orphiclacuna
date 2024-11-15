@@ -9,3 +9,6 @@ I love to explore ideas and keep trying new things, gaining a new experience eac
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Bootstrap and Blender
 - 👀 Looking forward to connect with people passionate about designing and magic behind it 🪄
+- 🔗 You can reach me out at <a href="https://www.linkedin.com/in/anushka-bhakare">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=Blue">
+  </a>
