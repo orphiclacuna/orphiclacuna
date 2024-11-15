@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1> Hi there 👋 </h1>
 
 Myself Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
 
