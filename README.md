@@ -1,7 +1,7 @@
 <h1> Hi there 👋 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/PA1E8wCwuDsAAAAi/coffee-peep-illustrator.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/PA1E8wCwuDsAAAAi/coffee-peep-illustrator.gif"/>
 </div>
 
 Myself Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
