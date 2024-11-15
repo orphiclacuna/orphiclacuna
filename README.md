@@ -7,5 +7,5 @@ I'm obsessed with designing, colors and perfecting the details... yes you guesse
 I love to explore ideas and keep trying new things, gaining a new experience each time. 
 
 - 🔭 I’m currently working on this page
-- 🌱 I’m currently learning Bootstrap and JQuery
+- 🌱 I’m currently learning Bootstrap and Blender
 - 👀 Looking forward to connect with people passionate about designing and magic behind it 🪄
