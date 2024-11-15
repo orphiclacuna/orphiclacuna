@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.tenor.com/PA1E8wCwuDsAAAAi/coffee-peep-illustrator.gif"/>
 </div>
----
+
 
 ### :woman_technologist: About Me :
 Myself Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
