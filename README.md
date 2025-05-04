@@ -40,7 +40,7 @@ I love to explore ideas and keep trying new things, gaining a new experience eac
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=orphiclacuna&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
