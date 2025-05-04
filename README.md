@@ -13,9 +13,12 @@ I'm obsessed with designing, colors and perfecting the details... yes you guesse
 I love to explore ideas and keep trying new things, gaining a new experience each time. 
 
 - 🔭 I’m currently working on this page
-- 🌱 I’m currently learning Bootstrap and Blender
-- 👀 Looking forward to connect with people passionate about designing and magic behind it 🪄
+- 🌱 I’m currently learning React and Blender
+- 👯 I’m looking to collaborate on full-stack projects
+- 💬 Ask me about UI and web designing
+- 👀 Looking forward to connect with people passionate about the art designing and magic behind it 🪄
 - 🔗 You can reach me out at <a href="https://www.linkedin.com/in/anushka-bhakare"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=Blue"></a>
+- ⚡ Fun fact: I can design a website, listen to lo-fi beats, and push commits without missing a beat.
 
 ---
 
@@ -36,21 +39,20 @@ I love to explore ideas and keep trying new things, gaining a new experience eac
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original-wordmark.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-</div>
+</div><br>
 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=orphiclacuna&theme=radical&hide_border=false)<br/>
-<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
+![](https://nirzak-streak-stats.vercel.app/?user=orphiclacuna&theme=radical&hide_border=false)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Snake animation](https://github.com/orphiclacuna/orphiclacuna/blob/output/github-contribution-grid-snake.svg)
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=orphiclacuna&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=orphiclacuna&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
