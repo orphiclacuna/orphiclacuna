@@ -6,9 +6,9 @@
 
 
 ### :woman_technologist: About Me :
-Myself Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
+Hello 👋 I am Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
 
-I'm obsessed with designing, colors and perfecting the details... yes you guessed that right, I'm passionate about Graphics Designing ✨
+I'm obsessed with creating out-of-the-box visuals, perfecting the details and bringing them to live for everyone... yes you guessed that right, I'm passionate about Graphics Design and Web Development ✨
 
 I love to explore ideas and keep trying new things, gaining a new experience each time. 
 
@@ -38,7 +38,6 @@ I love to explore ideas and keep trying new things, gaining a new experience eac
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;   
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original-wordmark.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div><br>
 
 
