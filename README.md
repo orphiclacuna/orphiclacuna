@@ -6,17 +6,17 @@
 
 
 ### :woman_technologist: About Me :
-Hello 👋 I am Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
+Hello, I am Anushka, currently pursuing B.Tech in Infomation Science and Engineering.
 
-I'm obsessed with creating out-of-the-box visuals, perfecting the details and bringing them to live for everyone... yes you guessed that right, I'm passionate about Graphics Design and Web Development ✨
+I'm obsessed with creating out-of-the-box visuals, perfecting the details and bringing them to life ✨
 
 I love to explore ideas and keep trying new things, gaining a new experience each time. 
 
 - 🔭 I’m currently working on this page
-- 🌱 I’m currently learning React and Blender
+- 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m looking to collaborate on full-stack projects
 - 💬 Ask me about UI and web designing
-- 👀 Looking forward to connect with people passionate about the art designing and magic behind it 🪄
+- 👀 Looking forward to connect with people passionate about the art of designing and magic behind it 🪄
 - 🔗 You can reach me out at <a href="https://www.linkedin.com/in/anushka-bhakare"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=Blue"></a>
 - ⚡ Fun fact: I can design a website, listen to lo-fi beats, and push commits without missing a beat.
 
@@ -45,12 +45,6 @@ I love to explore ideas and keep trying new things, gaining a new experience eac
 ![](https://github-readme-stats.vercel.app/api?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=orphiclacuna&theme=radical&hide_border=false)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orphiclacuna&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Snake animation](https://github.com/orphiclacuna/orphiclacuna/blob/output/github-contribution-grid-snake.svg)
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
